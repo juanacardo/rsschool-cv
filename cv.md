@@ -26,8 +26,8 @@ I came into development at the age of 35, before that I was engaged in archeolog
 
 ## Code example:
 
-```
 KATA from CODEWARS: The task is to sum the differences between consecutive pairs in the array in descending order.
+```
 function sumOfDifferences(arr) {
   let result = 0;
   if (arr.length <= 1) return result;
@@ -50,9 +50,9 @@ function sumOfDifferences(arr) {
 
 ## Experience:
 
-I'm working with website octagon.media in the part that concerns HTML and CSS, and I also develop our own CMS as part of the team.
+I'm working with website [octagon.media](https://octagon.media/) in the part that concerns HTML and CSS, and I also develop our own CMS as part of the team.
 
 ## Languages:
 
 - Russian - Native
-- English - C1 Advanced (according to the online test at www.efset.org)
+- English - C1 Advanced (according to the online test at [www.efset.org](www.efset.org))
